@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TopUpClient/1.0.0": {
+        "dependencies": {
+          "TopUps.Core": "1.0.0",
+          "TopUps.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "TopUpClient.dll": {}
+        }
+      },
+      "TopUps.Core/1.0.0": {
+        "runtime": {
+          "TopUps.Core.dll": {}
+        }
+      },
+      "TopUps.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TopUps.Core": "1.0.0"
+        },
+        "runtime": {
+          "TopUps.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TopUpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopUps.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopUps.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

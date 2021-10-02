@@ -1,0 +1,13 @@
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\bin\Debug\netcoreapp3.1\TopUps.Infrastructure.deps.json
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\bin\Debug\netcoreapp3.1\TopUps.Infrastructure.dll
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\bin\Debug\netcoreapp3.1\TopUps.Infrastructure.pdb
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.AssemblyInfo.cs
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.dll
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.pdb
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\bin\Debug\netcoreapp3.1\TopUps.Core.dll
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\bin\Debug\netcoreapp3.1\TopUps.Core.pdb
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Infrastructure\TopUps.Infrastructure\obj\Debug\netcoreapp3.1\TopUps.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\bin\Debug\netcoreapp3.1\TopUps.Core.deps.json
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\bin\Debug\netcoreapp3.1\TopUps.Core.dll
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\bin\Debug\netcoreapp3.1\TopUps.Core.pdb
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.csproj.AssemblyReference.cache
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.AssemblyInfoInputs.cache
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.AssemblyInfo.cs
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.dll
+C:\Users\Kamolchandra.roy\Desktop\ToUpsIntegration\src\Core\TopUps.Core\obj\Debug\netcoreapp3.1\TopUps.Core.pdb

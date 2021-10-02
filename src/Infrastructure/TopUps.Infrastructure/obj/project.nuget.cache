@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7xa9JkPP8X71fQE22yCwON3rYWflAoVdDbFRKaGj7/J4BSvJTonmEUPFHKp0mWgCRvodzCVO907urmH8q7ZVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamolchandra.roy\\Desktop\\ToUpsIntegration\\src\\Infrastructure\\TopUps.Infrastructure\\TopUps.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamolchandra.roy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kamolchandra.roy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
