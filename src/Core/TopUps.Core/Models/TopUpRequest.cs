@@ -12,11 +12,11 @@ public class TopUpRequest
 
 
     [MaxLength(8),MinLength(8)]
-    public DateTime MessageDate { get; set; }
+    public string MessageDate { get; set; }
 
 
     [MaxLength(6),MinLength(6)]
-    public DateTime MessageTime { get; set; }
+    public string MessageTime { get; set; }
 
 
     [MaxLength(12), MinLength(12)]
